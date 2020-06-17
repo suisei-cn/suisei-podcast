@@ -1,0 +1,18 @@
+{
+  "name": "suisei-podcast",
+  "version": "1.0.0",
+  "description": "Generating podcast for suisei-music.",
+  "main": "index.js",
+  "repository": "https://github.com/suisei-cn/suisei-podcast.git",
+  "author": "Outvi V <oss@outv.im>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dayjs": "^1.8.28",
+    "podcast": "^1.2.0",
+    "unirest": "^0.6.0"
+  },
+  "scripts": {
+    "build": "mkdir -p dist && node index.js > dist/feed.xml"
+  }
+}
