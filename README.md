@@ -1,5 +1,5 @@
 <h1 align=center>
-    <img src="https://raw.githubusercontent.com/suisei-cn/suisei-podcast/master/smp-logo.png"></img>
+    <img src="https://raw.githubusercontent.com/suisei-cn/suisei-podcast/master/smp-logo.png" width="180px"></img>
     <br>
     Suisei Music Podcast
 </h1>
