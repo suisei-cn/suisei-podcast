@@ -3,11 +3,16 @@
     <title><![CDATA[Suisei Music Podcast]]></title>
     <description><![CDATA[Collection of music of suisei. Powered by suisei-cn. This is a temporary trial example. The production version might be released later at a different location.]]></description>
     <link>https://github.com/suisei-cn/suisei-podcast</link>
+    <image>
+      <url>https://cdn.jsdelivr.net/gh/suisei-cn/suisei-podcast@1.0/smp-logo.png</url>
+      <title>Suisei Music Podcast</title>
+      <link>https://github.com/suisei-cn/suisei-podcast</link>
+    </image>
     <generator>podcast@npmjs</generator>
-    <lastBuildDate>Thu, 18 Jun 2020 17:22:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2020 17:34:49 GMT</lastBuildDate>
     <atom:link href="https://suisei-cn.github.io/suisei-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <author><![CDATA[星街すいせい工房]]></author>
-    <pubDate>Thu, 18 Jun 2020 17:22:47 GMT</pubDate>
+    <pubDate>Thu, 18 Jun 2020 17:34:49 GMT</pubDate>
     <category><![CDATA[music]]></category>
     <category><![CDATA[virtual youtuber]]></category>
     <itunes:author>星街すいせい工房</itunes:author>
@@ -17,6 +22,7 @@
       <itunes:email></itunes:email>
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/suisei-cn/suisei-podcast@1.0/smp-logo.png"/>
     <item>
       <title><![CDATA[Starduster]]></title>
       <description><![CDATA[Starduster, originally by ジミーサムP, performed by 星街すいせい on 2018/03/27 00:00]]></description>
