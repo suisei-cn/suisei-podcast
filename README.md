@@ -16,6 +16,10 @@
 
 This is a podcast-style list of [suisei-music](https://github.com/suisei-cn/suisei-music/).
 
-**[Subscribe this](https://suisei-cn.github.io/suisei-podcast/feed.xml)** with your favorite podcast client.
+**[Subscribe this](https://suisei-cn.github.io/suisei-podcast/feed.xml)** with your favorite podcast client. Have a QR code scanner? Scan this:
+
+<p align=center>
+    <img src="https://chart.googleapis.com/chart?cht=qr&chl=https://suisei-cn.github.io/suisei-podcast/feed.xml&chs=240x240"></img>
+</p>
 
 Don't have a podcast client? Try [AntennaPod](https://antennapod.org/).
