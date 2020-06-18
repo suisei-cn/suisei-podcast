@@ -25,10 +25,13 @@ function generateContent(item, original, time) {
   const body = resp.body;
   const feed = new Podcast({
     title: "Suisei Music Podcast",
-    description: "Collection of music of suisei. Powered by suisei-cn. This is a temporary trial example. The production version might be released later at a different location.",
+    description:
+      "Collection of music of suisei. Powered by suisei-cn. This is a temporary trial example. The production version might be released later at a different location.",
     generator: "podcast@npmjs",
     feedUrl: "https://suisei-cn.github.io/suisei-podcast/feed.xml",
     siteUrl: "https://github.com/suisei-cn/suisei-podcast",
+    imageUrl:
+      "https://cdn.jsdelivr.net/gh/suisei-cn/suisei-podcast@1.0/smp-logo.png",
     author: "星街すいせい工房",
     categories: ["music", "virtual youtuber"],
     pubDate: new Date(),
