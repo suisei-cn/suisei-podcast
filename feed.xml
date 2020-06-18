@@ -4,10 +4,10 @@
     <description><![CDATA[Collection of music of suisei. Powered by suisei-cn.]]></description>
     <link>https://github.com/suisei-cn/suisei-podcast</link>
     <generator>podcast@npmjs</generator>
-    <lastBuildDate>Wed, 17 Jun 2020 16:04:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2020 00:09:43 GMT</lastBuildDate>
     <atom:link href="https://suisei-cn.github.io/suisei-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <author><![CDATA[星街すいせい工房]]></author>
-    <pubDate>Wed, 17 Jun 2020 16:04:18 GMT</pubDate>
+    <pubDate>Thu, 18 Jun 2020 00:09:43 GMT</pubDate>
     <category><![CDATA[music]]></category>
     <category><![CDATA[virtual youtuber]]></category>
     <itunes:author>星街すいせい工房</itunes:author>
@@ -3022,15 +3022,15 @@
     </item>
     <item>
       <title><![CDATA[冬空プレシャス]]></title>
-      <description><![CDATA[冬空プレシャス, originally by CINDERELLA PROJECT, performed by 星街すいせい on 2020/01/21 00:00]]></description>
-      <link>https://suisei-music.darknode.workers.dev/music/65a9984ec3dfaca0.m4a</link>
-      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/65a9984ec3dfaca0.m4a</guid>
+      <description><![CDATA[冬空プレシャス, originally by 片桐早苗,難波笑美,姫川友紀, performed by 星街すいせい on 2020/01/21 00:00]]></description>
+      <link>https://suisei-music.darknode.workers.dev/music/506f29c0291ceb2f.m4a</link>
+      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/506f29c0291ceb2f.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
       <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
-      <enclosure url="https://suisei-music.darknode.workers.dev/music/65a9984ec3dfaca0.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://suisei-music.darknode.workers.dev/music/506f29c0291ceb2f.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: 冬空プレシャス</p>
-    <p>Originally by CINDERELLA PROJECT</p>
+    <p>Originally by 片桐早苗,難波笑美,姫川友紀</p>
     <p>Performed at: 2020/01/21 00:00</p>
     <br>
     <p>
@@ -3038,7 +3038,7 @@
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>冬空プレシャス, originally by CINDERELLA PROJECT, performed by 星街すいせい on 2020/01/21 00:00</itunes:summary>
+      <itunes:summary>冬空プレシャス, originally by 片桐早苗,難波笑美,姫川友紀, performed by 星街すいせい on 2020/01/21 00:00</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
@@ -4996,15 +4996,15 @@
     </item>
     <item>
       <title><![CDATA[Trust me]]></title>
-      <description><![CDATA[Trust me, originally by THE IDOLM @STER CINDERELLA GIRLS!!, performed by 星街すいせい on 2020/03/21 20:18]]></description>
-      <link>https://suisei-music.darknode.workers.dev/music/527fe285fd848973.m4a</link>
-      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/527fe285fd848973.m4a</guid>
+      <description><![CDATA[Trust me, originally by THE IDOLM@STER CINDERELLA GIRLS!!, performed by 星街すいせい on 2020/03/21 20:18]]></description>
+      <link>https://suisei-music.darknode.workers.dev/music/1095a09d13cd338b.m4a</link>
+      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/1095a09d13cd338b.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
       <pubDate>Sat, 21 Mar 2020 20:18:00 GMT</pubDate>
-      <enclosure url="https://suisei-music.darknode.workers.dev/music/527fe285fd848973.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://suisei-music.darknode.workers.dev/music/1095a09d13cd338b.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: Trust me</p>
-    <p>Originally by THE IDOLM @STER CINDERELLA GIRLS!!</p>
+    <p>Originally by THE IDOLM@STER CINDERELLA GIRLS!!</p>
     <p>Performed at: 2020/03/21 20:18</p>
     <br>
     <p>
@@ -5012,7 +5012,7 @@
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>Trust me, originally by THE IDOLM @STER CINDERELLA GIRLS!!, performed by 星街すいせい on 2020/03/21 20:18</itunes:summary>
+      <itunes:summary>Trust me, originally by THE IDOLM@STER CINDERELLA GIRLS!!, performed by 星街すいせい on 2020/03/21 20:18</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
@@ -5353,233 +5353,233 @@
     </item>
     <item>
       <title><![CDATA[名前のない怪物]]></title>
-      <description><![CDATA[名前のない怪物, originally by EGOIST, performed by 星街すいせい on 2020/03/25 21:00]]></description>
+      <description><![CDATA[名前のない怪物, originally by EGOIST, performed by 星街すいせい on 2020/03/25 21:02]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/02a66a17b9fd8ca8.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/02a66a17b9fd8ca8.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Wed, 25 Mar 2020 21:00:00 GMT</pubDate>
+      <pubDate>Wed, 25 Mar 2020 21:02:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/02a66a17b9fd8ca8.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: 名前のない怪物</p>
     <p>Originally by EGOIST</p>
-    <p>Performed at: 2020/03/25 21:00</p>
+    <p>Performed at: 2020/03/25 21:02</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>名前のない怪物, originally by EGOIST, performed by 星街すいせい on 2020/03/25 21:00</itunes:summary>
+      <itunes:summary>名前のない怪物, originally by EGOIST, performed by 星街すいせい on 2020/03/25 21:02</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
       <title><![CDATA[The Everlasting Guilty Crown]]></title>
-      <description><![CDATA[The Everlasting Guilty Crown, originally by EGOIST, performed by 星街すいせい on 2020/03/25 21:00]]></description>
+      <description><![CDATA[The Everlasting Guilty Crown, originally by EGOIST, performed by 星街すいせい on 2020/03/25 21:02]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/8e1413a4c737219c.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/8e1413a4c737219c.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Wed, 25 Mar 2020 21:00:00 GMT</pubDate>
+      <pubDate>Wed, 25 Mar 2020 21:02:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/8e1413a4c737219c.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: The Everlasting Guilty Crown</p>
     <p>Originally by EGOIST</p>
-    <p>Performed at: 2020/03/25 21:00</p>
+    <p>Performed at: 2020/03/25 21:02</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>The Everlasting Guilty Crown, originally by EGOIST, performed by 星街すいせい on 2020/03/25 21:00</itunes:summary>
+      <itunes:summary>The Everlasting Guilty Crown, originally by EGOIST, performed by 星街すいせい on 2020/03/25 21:02</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
       <title><![CDATA[Departures 〜あなたにおくるアイの歌〜]]></title>
-      <description><![CDATA[Departures 〜あなたにおくるアイの歌〜, originally by EGOIST, performed by 星街すいせい on 2020/03/25 21:00]]></description>
+      <description><![CDATA[Departures 〜あなたにおくるアイの歌〜, originally by EGOIST, performed by 星街すいせい on 2020/03/25 21:02]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/e2cf92ffd64dcb2b.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/e2cf92ffd64dcb2b.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Wed, 25 Mar 2020 21:00:00 GMT</pubDate>
+      <pubDate>Wed, 25 Mar 2020 21:02:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/e2cf92ffd64dcb2b.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: Departures 〜あなたにおくるアイの歌〜</p>
     <p>Originally by EGOIST</p>
-    <p>Performed at: 2020/03/25 21:00</p>
+    <p>Performed at: 2020/03/25 21:02</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>Departures 〜あなたにおくるアイの歌〜, originally by EGOIST, performed by 星街すいせい on 2020/03/25 21:00</itunes:summary>
+      <itunes:summary>Departures 〜あなたにおくるアイの歌〜, originally by EGOIST, performed by 星街すいせい on 2020/03/25 21:02</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
       <title><![CDATA[もうそうえくすぷれす]]></title>
-      <description><![CDATA[もうそうえくすぷれす, originally by 千石撫子, performed by 星街すいせい on 2020/03/25 21:00]]></description>
+      <description><![CDATA[もうそうえくすぷれす, originally by 千石撫子, performed by 星街すいせい on 2020/03/25 21:02]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/1608c3cca95dba59.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/1608c3cca95dba59.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Wed, 25 Mar 2020 21:00:00 GMT</pubDate>
+      <pubDate>Wed, 25 Mar 2020 21:02:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/1608c3cca95dba59.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: もうそうえくすぷれす</p>
     <p>Originally by 千石撫子</p>
-    <p>Performed at: 2020/03/25 21:00</p>
+    <p>Performed at: 2020/03/25 21:02</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>もうそうえくすぷれす, originally by 千石撫子, performed by 星街すいせい on 2020/03/25 21:00</itunes:summary>
+      <itunes:summary>もうそうえくすぷれす, originally by 千石撫子, performed by 星街すいせい on 2020/03/25 21:02</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
       <title><![CDATA[ヴィーナスとジーザス]]></title>
-      <description><![CDATA[ヴィーナスとジーザス, originally by やくしまるえつこ, performed by 星街すいせい on 2020/03/25 21:00]]></description>
+      <description><![CDATA[ヴィーナスとジーザス, originally by やくしまるえつこ, performed by 星街すいせい on 2020/03/25 21:02]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/a72baf0d7443b031.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/a72baf0d7443b031.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Wed, 25 Mar 2020 21:00:00 GMT</pubDate>
+      <pubDate>Wed, 25 Mar 2020 21:02:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/a72baf0d7443b031.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: ヴィーナスとジーザス</p>
     <p>Originally by やくしまるえつこ</p>
-    <p>Performed at: 2020/03/25 21:00</p>
+    <p>Performed at: 2020/03/25 21:02</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>ヴィーナスとジーザス, originally by やくしまるえつこ, performed by 星街すいせい on 2020/03/25 21:00</itunes:summary>
+      <itunes:summary>ヴィーナスとジーザス, originally by やくしまるえつこ, performed by 星街すいせい on 2020/03/25 21:02</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
       <title><![CDATA[君の銀の庭]]></title>
-      <description><![CDATA[君の銀の庭, originally by Kalafina, performed by 星街すいせい on 2020/03/25 21:00]]></description>
+      <description><![CDATA[君の銀の庭, originally by Kalafina, performed by 星街すいせい on 2020/03/25 21:02]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/eb34607a5a13ff61.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/eb34607a5a13ff61.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Wed, 25 Mar 2020 21:00:00 GMT</pubDate>
+      <pubDate>Wed, 25 Mar 2020 21:02:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/eb34607a5a13ff61.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: 君の銀の庭</p>
     <p>Originally by Kalafina</p>
-    <p>Performed at: 2020/03/25 21:00</p>
+    <p>Performed at: 2020/03/25 21:02</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>君の銀の庭, originally by Kalafina, performed by 星街すいせい on 2020/03/25 21:00</itunes:summary>
+      <itunes:summary>君の銀の庭, originally by Kalafina, performed by 星街すいせい on 2020/03/25 21:02</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
       <title><![CDATA[丸の内サディスティック]]></title>
-      <description><![CDATA[丸の内サディスティック, originally by 椎名林檎, performed by 星街すいせい on 2020/03/25 21:00]]></description>
+      <description><![CDATA[丸の内サディスティック, originally by 椎名林檎, performed by 星街すいせい on 2020/03/25 21:02]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/7521bd8c4a28f168.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/7521bd8c4a28f168.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Wed, 25 Mar 2020 21:00:00 GMT</pubDate>
+      <pubDate>Wed, 25 Mar 2020 21:02:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/7521bd8c4a28f168.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: 丸の内サディスティック</p>
     <p>Originally by 椎名林檎</p>
-    <p>Performed at: 2020/03/25 21:00</p>
+    <p>Performed at: 2020/03/25 21:02</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>丸の内サディスティック, originally by 椎名林檎, performed by 星街すいせい on 2020/03/25 21:00</itunes:summary>
+      <itunes:summary>丸の内サディスティック, originally by 椎名林檎, performed by 星街すいせい on 2020/03/25 21:02</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
       <title><![CDATA[ロキ]]></title>
-      <description><![CDATA[ロキ, originally by みきとP, performed by 星街すいせい on 2020/03/25 21:00]]></description>
+      <description><![CDATA[ロキ, originally by みきとP, performed by 星街すいせい on 2020/03/25 21:02]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/7188132e0573a3a4.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/7188132e0573a3a4.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Wed, 25 Mar 2020 21:00:00 GMT</pubDate>
+      <pubDate>Wed, 25 Mar 2020 21:02:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/7188132e0573a3a4.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: ロキ</p>
     <p>Originally by みきとP</p>
-    <p>Performed at: 2020/03/25 21:00</p>
+    <p>Performed at: 2020/03/25 21:02</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>ロキ, originally by みきとP, performed by 星街すいせい on 2020/03/25 21:00</itunes:summary>
+      <itunes:summary>ロキ, originally by みきとP, performed by 星街すいせい on 2020/03/25 21:02</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
       <title><![CDATA[いかないで]]></title>
-      <description><![CDATA[いかないで, originally by 想太, performed by 星街すいせい on 2020/03/25 21:00]]></description>
+      <description><![CDATA[いかないで, originally by 想太, performed by 星街すいせい on 2020/03/25 21:02]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/2ee6a409baaccd48.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/2ee6a409baaccd48.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Wed, 25 Mar 2020 21:00:00 GMT</pubDate>
+      <pubDate>Wed, 25 Mar 2020 21:02:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/2ee6a409baaccd48.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: いかないで</p>
     <p>Originally by 想太</p>
-    <p>Performed at: 2020/03/25 21:00</p>
+    <p>Performed at: 2020/03/25 21:02</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>いかないで, originally by 想太, performed by 星街すいせい on 2020/03/25 21:00</itunes:summary>
+      <itunes:summary>いかないで, originally by 想太, performed by 星街すいせい on 2020/03/25 21:02</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
       <title><![CDATA[紅蓮華]]></title>
-      <description><![CDATA[紅蓮華, originally by LiSA, performed by 星街すいせい on 2020/03/25 21:00]]></description>
+      <description><![CDATA[紅蓮華, originally by LiSA, performed by 星街すいせい on 2020/03/25 21:02]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/e5ae7939ca84290d.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/e5ae7939ca84290d.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Wed, 25 Mar 2020 21:00:00 GMT</pubDate>
+      <pubDate>Wed, 25 Mar 2020 21:02:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/e5ae7939ca84290d.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: 紅蓮華</p>
     <p>Originally by LiSA</p>
-    <p>Performed at: 2020/03/25 21:00</p>
+    <p>Performed at: 2020/03/25 21:02</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>紅蓮華, originally by LiSA, performed by 星街すいせい on 2020/03/25 21:00</itunes:summary>
+      <itunes:summary>紅蓮華, originally by LiSA, performed by 星街すいせい on 2020/03/25 21:02</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
       <title><![CDATA[拍手喝采歌合]]></title>
-      <description><![CDATA[拍手喝采歌合, originally by supercell, performed by 星街すいせい on 2020/03/25 21:00]]></description>
+      <description><![CDATA[拍手喝采歌合, originally by supercell, performed by 星街すいせい on 2020/03/25 21:02]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/d513d13fc8f2036e.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/d513d13fc8f2036e.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Wed, 25 Mar 2020 21:00:00 GMT</pubDate>
+      <pubDate>Wed, 25 Mar 2020 21:02:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/d513d13fc8f2036e.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: 拍手喝采歌合</p>
     <p>Originally by supercell</p>
-    <p>Performed at: 2020/03/25 21:00</p>
+    <p>Performed at: 2020/03/25 21:02</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>拍手喝采歌合, originally by supercell, performed by 星街すいせい on 2020/03/25 21:00</itunes:summary>
+      <itunes:summary>拍手喝采歌合, originally by supercell, performed by 星街すいせい on 2020/03/25 21:02</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
@@ -5856,27 +5856,6 @@
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
-      <title><![CDATA[やさしさに包まれたなら]]></title>
-      <description><![CDATA[やさしさに包まれたなら, originally by 松任谷由実, performed by 星街すいせい on 2020/04/12 17:00]]></description>
-      <link>https://suisei-music.darknode.workers.dev/music/9e25c2946852847c.m4a</link>
-      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/9e25c2946852847c.m4a</guid>
-      <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Sun, 12 Apr 2020 17:00:00 GMT</pubDate>
-      <enclosure url="https://suisei-music.darknode.workers.dev/music/9e25c2946852847c.m4a" length="0" type="audio/mp4"/>
-      <content:encoded><![CDATA[
-    <p>Song name: やさしさに包まれたなら</p>
-    <p>Originally by 松任谷由実</p>
-    <p>Performed at: 2020/04/12 17:00</p>
-    <br>
-    <p>
-    This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
-    If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
-    </p>
-    ]]></content:encoded>
-      <itunes:summary>やさしさに包まれたなら, originally by 松任谷由実, performed by 星街すいせい on 2020/04/12 17:00</itunes:summary>
-      <itunes:explicit>No</itunes:explicit>
-    </item>
-    <item>
       <title><![CDATA[丸の内サディスティック]]></title>
       <description><![CDATA[丸の内サディスティック, originally by 椎名林檎, performed by 星街すいせい on 2020/04/12 17:00]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/866afab4c6493c8b.m4a</link>
@@ -5895,6 +5874,27 @@
     </p>
     ]]></content:encoded>
       <itunes:summary>丸の内サディスティック, originally by 椎名林檎, performed by 星街すいせい on 2020/04/12 17:00</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[やさしさに包まれたなら]]></title>
+      <description><![CDATA[やさしさに包まれたなら, originally by 松任谷由実, performed by 星街すいせい on 2020/04/12 17:12]]></description>
+      <link>https://suisei-music.darknode.workers.dev/music/9e25c2946852847c.m4a</link>
+      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/9e25c2946852847c.m4a</guid>
+      <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
+      <pubDate>Sun, 12 Apr 2020 17:12:00 GMT</pubDate>
+      <enclosure url="https://suisei-music.darknode.workers.dev/music/9e25c2946852847c.m4a" length="0" type="audio/mp4"/>
+      <content:encoded><![CDATA[
+    <p>Song name: やさしさに包まれたなら</p>
+    <p>Originally by 松任谷由実</p>
+    <p>Performed at: 2020/04/12 17:12</p>
+    <br>
+    <p>
+    This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
+    If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
+    </p>
+    ]]></content:encoded>
+      <itunes:summary>やさしさに包まれたなら, originally by 松任谷由実, performed by 星街すいせい on 2020/04/12 17:12</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
@@ -6172,23 +6172,23 @@
     </item>
     <item>
       <title><![CDATA[変わらないもの]]></title>
-      <description><![CDATA[変わらないもの, originally by 奥華子, performed by 星街すいせい on 2020/04/19 17:00]]></description>
+      <description><![CDATA[変わらないもの, originally by 奥華子, performed by 星街すいせい on 2020/04/19 17:12]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/750cc506374d7d8a.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/750cc506374d7d8a.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Sun, 19 Apr 2020 17:00:00 GMT</pubDate>
+      <pubDate>Sun, 19 Apr 2020 17:12:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/750cc506374d7d8a.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: 変わらないもの</p>
     <p>Originally by 奥華子</p>
-    <p>Performed at: 2020/04/19 17:00</p>
+    <p>Performed at: 2020/04/19 17:12</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>変わらないもの, originally by 奥華子, performed by 星街すいせい on 2020/04/19 17:00</itunes:summary>
+      <itunes:summary>変わらないもの, originally by 奥華子, performed by 星街すいせい on 2020/04/19 17:12</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
@@ -9448,212 +9448,464 @@
     </item>
     <item>
       <title><![CDATA[NO, Thank You!]]></title>
-      <description><![CDATA[NO, Thank You!, originally by 秋山澪, performed by 星街すいせい on 2020/06/15 21:30]]></description>
+      <description><![CDATA[NO, Thank You!, originally by 秋山澪, performed by 星街すいせい on 2020/06/15 21:27]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/bff7a8f98a9509aa.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/bff7a8f98a9509aa.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Mon, 15 Jun 2020 21:30:00 GMT</pubDate>
+      <pubDate>Mon, 15 Jun 2020 21:27:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/bff7a8f98a9509aa.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: NO, Thank You!</p>
     <p>Originally by 秋山澪</p>
-    <p>Performed at: 2020/06/15 21:30</p>
+    <p>Performed at: 2020/06/15 21:27</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>NO, Thank You!, originally by 秋山澪, performed by 星街すいせい on 2020/06/15 21:30</itunes:summary>
+      <itunes:summary>NO, Thank You!, originally by 秋山澪, performed by 星街すいせい on 2020/06/15 21:27</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
       <title><![CDATA[ノーザンクロス]]></title>
-      <description><![CDATA[ノーザンクロス, originally by シェリル・ノーム, performed by 星街すいせい on 2020/06/15 21:30]]></description>
+      <description><![CDATA[ノーザンクロス, originally by シェリル・ノーム, performed by 星街すいせい on 2020/06/15 21:27]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/f959a96a45d3308d.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/f959a96a45d3308d.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Mon, 15 Jun 2020 21:30:00 GMT</pubDate>
+      <pubDate>Mon, 15 Jun 2020 21:27:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/f959a96a45d3308d.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: ノーザンクロス</p>
     <p>Originally by シェリル・ノーム</p>
-    <p>Performed at: 2020/06/15 21:30</p>
+    <p>Performed at: 2020/06/15 21:27</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>ノーザンクロス, originally by シェリル・ノーム, performed by 星街すいせい on 2020/06/15 21:30</itunes:summary>
+      <itunes:summary>ノーザンクロス, originally by シェリル・ノーム, performed by 星街すいせい on 2020/06/15 21:27</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
       <title><![CDATA[Pretender]]></title>
-      <description><![CDATA[Pretender, originally by Official髭男dism, performed by 星街すいせい on 2020/06/15 21:30]]></description>
+      <description><![CDATA[Pretender, originally by Official髭男dism, performed by 星街すいせい on 2020/06/15 21:27]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/883c6b0002bcb7dc.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/883c6b0002bcb7dc.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Mon, 15 Jun 2020 21:30:00 GMT</pubDate>
+      <pubDate>Mon, 15 Jun 2020 21:27:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/883c6b0002bcb7dc.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: Pretender</p>
     <p>Originally by Official髭男dism</p>
-    <p>Performed at: 2020/06/15 21:30</p>
+    <p>Performed at: 2020/06/15 21:27</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>Pretender, originally by Official髭男dism, performed by 星街すいせい on 2020/06/15 21:30</itunes:summary>
+      <itunes:summary>Pretender, originally by Official髭男dism, performed by 星街すいせい on 2020/06/15 21:27</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
       <title><![CDATA[だから僕は音楽を辞めた]]></title>
-      <description><![CDATA[だから僕は音楽を辞めた, originally by ヨルシカ, performed by 星街すいせい on 2020/06/15 21:30]]></description>
+      <description><![CDATA[だから僕は音楽を辞めた, originally by ヨルシカ, performed by 星街すいせい on 2020/06/15 21:27]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/062d929e59722efc.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/062d929e59722efc.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Mon, 15 Jun 2020 21:30:00 GMT</pubDate>
+      <pubDate>Mon, 15 Jun 2020 21:27:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/062d929e59722efc.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: だから僕は音楽を辞めた</p>
     <p>Originally by ヨルシカ</p>
-    <p>Performed at: 2020/06/15 21:30</p>
+    <p>Performed at: 2020/06/15 21:27</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>だから僕は音楽を辞めた, originally by ヨルシカ, performed by 星街すいせい on 2020/06/15 21:30</itunes:summary>
+      <itunes:summary>だから僕は音楽を辞めた, originally by ヨルシカ, performed by 星街すいせい on 2020/06/15 21:27</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
       <title><![CDATA[深い森]]></title>
-      <description><![CDATA[深い森, originally by Do As Infinity, performed by 星街すいせい on 2020/06/15 21:30]]></description>
+      <description><![CDATA[深い森, originally by Do As Infinity, performed by 星街すいせい on 2020/06/15 21:27]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/b2667061a6ea4a8b.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/b2667061a6ea4a8b.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Mon, 15 Jun 2020 21:30:00 GMT</pubDate>
+      <pubDate>Mon, 15 Jun 2020 21:27:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/b2667061a6ea4a8b.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: 深い森</p>
     <p>Originally by Do As Infinity</p>
-    <p>Performed at: 2020/06/15 21:30</p>
+    <p>Performed at: 2020/06/15 21:27</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>深い森, originally by Do As Infinity, performed by 星街すいせい on 2020/06/15 21:30</itunes:summary>
+      <itunes:summary>深い森, originally by Do As Infinity, performed by 星街すいせい on 2020/06/15 21:27</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
       <title><![CDATA[光のロック]]></title>
-      <description><![CDATA[光のロック, originally by サンボマスター, performed by 星街すいせい on 2020/06/15 21:30]]></description>
+      <description><![CDATA[光のロック, originally by サンボマスター, performed by 星街すいせい on 2020/06/15 21:27]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/8581b55a6a31e0ef.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/8581b55a6a31e0ef.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Mon, 15 Jun 2020 21:30:00 GMT</pubDate>
+      <pubDate>Mon, 15 Jun 2020 21:27:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/8581b55a6a31e0ef.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: 光のロック</p>
     <p>Originally by サンボマスター</p>
-    <p>Performed at: 2020/06/15 21:30</p>
+    <p>Performed at: 2020/06/15 21:27</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>光のロック, originally by サンボマスター, performed by 星街すいせい on 2020/06/15 21:30</itunes:summary>
+      <itunes:summary>光のロック, originally by サンボマスター, performed by 星街すいせい on 2020/06/15 21:27</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
-      <title><![CDATA[???]]></title>
-      <description><![CDATA[???, an original song by 星街すいせい performed on 2020/06/15 21:30.]]></description>
-      <link>https://suisei-music.darknode.workers.dev/music/b7cc5664c481c3f6.m4a</link>
-      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/b7cc5664c481c3f6.m4a</guid>
+      <title><![CDATA[星街すいせいのBILIBILI MACRO LINKオリジナル]]></title>
+      <description><![CDATA[星街すいせいのBILIBILI MACRO LINKオリジナル, an original song by 星街すいせい performed on 2020/06/15 21:27.]]></description>
+      <link>https://suisei-music.darknode.workers.dev/music/d29c149fca5db3f8.m4a</link>
+      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/d29c149fca5db3f8.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Mon, 15 Jun 2020 21:30:00 GMT</pubDate>
-      <enclosure url="https://suisei-music.darknode.workers.dev/music/b7cc5664c481c3f6.m4a" length="0" type="audio/mp4"/>
+      <pubDate>Mon, 15 Jun 2020 21:27:00 GMT</pubDate>
+      <enclosure url="https://suisei-music.darknode.workers.dev/music/d29c149fca5db3f8.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
-    <p>Song name: ???</p>
+    <p>Song name: 星街すいせいのBILIBILI MACRO LINKオリジナル</p>
     <p>Original song by 星街すいせい</p>
-    <p>Performed at: 2020/06/15 21:30</p>
+    <p>Performed at: 2020/06/15 21:27</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>???, an original song by 星街すいせい performed on 2020/06/15 21:30.</itunes:summary>
+      <itunes:summary>星街すいせいのBILIBILI MACRO LINKオリジナル, an original song by 星街すいせい performed on 2020/06/15 21:27.</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
       <title><![CDATA[Again]]></title>
-      <description><![CDATA[Again, originally by YUI, performed by 星街すいせい on 2020/06/15 21:30]]></description>
+      <description><![CDATA[Again, originally by YUI, performed by 星街すいせい on 2020/06/15 21:27]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/dfc5b1bd3387384f.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/dfc5b1bd3387384f.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Mon, 15 Jun 2020 21:30:00 GMT</pubDate>
+      <pubDate>Mon, 15 Jun 2020 21:27:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/dfc5b1bd3387384f.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: Again</p>
     <p>Originally by YUI</p>
-    <p>Performed at: 2020/06/15 21:30</p>
+    <p>Performed at: 2020/06/15 21:27</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>Again, originally by YUI, performed by 星街すいせい on 2020/06/15 21:30</itunes:summary>
+      <itunes:summary>Again, originally by YUI, performed by 星街すいせい on 2020/06/15 21:27</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
       <title><![CDATA[雨とカプチーノ]]></title>
-      <description><![CDATA[雨とカプチーノ, originally by ヨルシカ, performed by 星街すいせい on 2020/06/15 21:30]]></description>
+      <description><![CDATA[雨とカプチーノ, originally by ヨルシカ, performed by 星街すいせい on 2020/06/15 21:27]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/05c8e41d9f2aed22.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/05c8e41d9f2aed22.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Mon, 15 Jun 2020 21:30:00 GMT</pubDate>
+      <pubDate>Mon, 15 Jun 2020 21:27:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/05c8e41d9f2aed22.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: 雨とカプチーノ</p>
     <p>Originally by ヨルシカ</p>
-    <p>Performed at: 2020/06/15 21:30</p>
+    <p>Performed at: 2020/06/15 21:27</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>雨とカプチーノ, originally by ヨルシカ, performed by 星街すいせい on 2020/06/15 21:30</itunes:summary>
+      <itunes:summary>雨とカプチーノ, originally by ヨルシカ, performed by 星街すいせい on 2020/06/15 21:27</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
     <item>
       <title><![CDATA[Kiss & Cry]]></title>
-      <description><![CDATA[Kiss & Cry, originally by 宇多田ヒカル, performed by 星街すいせい on 2020/06/15 21:30]]></description>
+      <description><![CDATA[Kiss & Cry, originally by 宇多田ヒカル, performed by 星街すいせい on 2020/06/15 21:27]]></description>
       <link>https://suisei-music.darknode.workers.dev/music/540cdcc42bcce246.m4a</link>
       <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/540cdcc42bcce246.m4a</guid>
       <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
-      <pubDate>Mon, 15 Jun 2020 21:30:00 GMT</pubDate>
+      <pubDate>Mon, 15 Jun 2020 21:27:00 GMT</pubDate>
       <enclosure url="https://suisei-music.darknode.workers.dev/music/540cdcc42bcce246.m4a" length="0" type="audio/mp4"/>
       <content:encoded><![CDATA[
     <p>Song name: Kiss & Cry</p>
     <p>Originally by 宇多田ヒカル</p>
-    <p>Performed at: 2020/06/15 21:30</p>
+    <p>Performed at: 2020/06/15 21:27</p>
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
     If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
     </p>
     ]]></content:encoded>
-      <itunes:summary>Kiss &amp; Cry, originally by 宇多田ヒカル, performed by 星街すいせい on 2020/06/15 21:30</itunes:summary>
+      <itunes:summary>Kiss &amp; Cry, originally by 宇多田ヒカル, performed by 星街すいせい on 2020/06/15 21:27</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[天球、彗星は夜を跨いで]]></title>
+      <description><![CDATA[天球、彗星は夜を跨いで, an original song by 星街すいせい performed on 2020/06/17 18:57.]]></description>
+      <link>https://suisei-music.darknode.workers.dev/music/51abeff91de0a5e2.m4a</link>
+      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/51abeff91de0a5e2.m4a</guid>
+      <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
+      <pubDate>Wed, 17 Jun 2020 18:57:00 GMT</pubDate>
+      <enclosure url="https://suisei-music.darknode.workers.dev/music/51abeff91de0a5e2.m4a" length="0" type="audio/mp4"/>
+      <content:encoded><![CDATA[
+    <p>Song name: 天球、彗星は夜を跨いで</p>
+    <p>Original song by 星街すいせい</p>
+    <p>Performed at: 2020/06/17 18:57</p>
+    <br>
+    <p>
+    This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
+    If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
+    </p>
+    ]]></content:encoded>
+      <itunes:summary>天球、彗星は夜を跨いで, an original song by 星街すいせい performed on 2020/06/17 18:57.</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[夢をのぞいたら]]></title>
+      <description><![CDATA[夢をのぞいたら, originally by THE IDOLM@STER CINDERELLA GIRLS!!, performed by 星街すいせい on 2020/06/17 18:57]]></description>
+      <link>https://suisei-music.darknode.workers.dev/music/d7c209558e2cce43.m4a</link>
+      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/d7c209558e2cce43.m4a</guid>
+      <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
+      <pubDate>Wed, 17 Jun 2020 18:57:00 GMT</pubDate>
+      <enclosure url="https://suisei-music.darknode.workers.dev/music/d7c209558e2cce43.m4a" length="0" type="audio/mp4"/>
+      <content:encoded><![CDATA[
+    <p>Song name: 夢をのぞいたら</p>
+    <p>Originally by THE IDOLM@STER CINDERELLA GIRLS!!</p>
+    <p>Performed at: 2020/06/17 18:57</p>
+    <br>
+    <p>
+    This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
+    If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
+    </p>
+    ]]></content:encoded>
+      <itunes:summary>夢をのぞいたら, originally by THE IDOLM@STER CINDERELLA GIRLS!!, performed by 星街すいせい on 2020/06/17 18:57</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[∀NSWER]]></title>
+      <description><![CDATA[∀NSWER, originally by 早坂美玲,森久保乃々,星輝子, performed by 星街すいせい on 2020/06/17 18:57]]></description>
+      <link>https://suisei-music.darknode.workers.dev/music/b39aa3207d2af718.m4a</link>
+      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/b39aa3207d2af718.m4a</guid>
+      <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
+      <pubDate>Wed, 17 Jun 2020 18:57:00 GMT</pubDate>
+      <enclosure url="https://suisei-music.darknode.workers.dev/music/b39aa3207d2af718.m4a" length="0" type="audio/mp4"/>
+      <content:encoded><![CDATA[
+    <p>Song name: ∀NSWER</p>
+    <p>Originally by 早坂美玲,森久保乃々,星輝子</p>
+    <p>Performed at: 2020/06/17 18:57</p>
+    <br>
+    <p>
+    This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
+    If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
+    </p>
+    ]]></content:encoded>
+      <itunes:summary>∀NSWER, originally by 早坂美玲,森久保乃々,星輝子, performed by 星街すいせい on 2020/06/17 18:57</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[夏色えがおで1,2,Jump!]]></title>
+      <description><![CDATA[夏色えがおで1,2,Jump!, originally by μ's, performed by 星街すいせい on 2020/06/17 18:57]]></description>
+      <link>https://suisei-music.darknode.workers.dev/music/b49cba7e592cc989.m4a</link>
+      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/b49cba7e592cc989.m4a</guid>
+      <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
+      <pubDate>Wed, 17 Jun 2020 18:57:00 GMT</pubDate>
+      <enclosure url="https://suisei-music.darknode.workers.dev/music/b49cba7e592cc989.m4a" length="0" type="audio/mp4"/>
+      <content:encoded><![CDATA[
+    <p>Song name: 夏色えがおで1,2,Jump!</p>
+    <p>Originally by μ's</p>
+    <p>Performed at: 2020/06/17 18:57</p>
+    <br>
+    <p>
+    This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
+    If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
+    </p>
+    ]]></content:encoded>
+      <itunes:summary>夏色えがおで1,2,Jump!, originally by μ&apos;s, performed by 星街すいせい on 2020/06/17 18:57</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[Mermaid festa vol.1]]></title>
+      <description><![CDATA[Mermaid festa vol.1, originally by μ's, performed by 星街すいせい on 2020/06/17 18:57]]></description>
+      <link>https://suisei-music.darknode.workers.dev/music/87e034821ea8f90d.m4a</link>
+      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/87e034821ea8f90d.m4a</guid>
+      <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
+      <pubDate>Wed, 17 Jun 2020 18:57:00 GMT</pubDate>
+      <enclosure url="https://suisei-music.darknode.workers.dev/music/87e034821ea8f90d.m4a" length="0" type="audio/mp4"/>
+      <content:encoded><![CDATA[
+    <p>Song name: Mermaid festa vol.1</p>
+    <p>Originally by μ's</p>
+    <p>Performed at: 2020/06/17 18:57</p>
+    <br>
+    <p>
+    This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
+    If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
+    </p>
+    ]]></content:encoded>
+      <itunes:summary>Mermaid festa vol.1, originally by μ&apos;s, performed by 星街すいせい on 2020/06/17 18:57</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[雨とカプチーノ]]></title>
+      <description><![CDATA[雨とカプチーノ, originally by ヨルシカ, performed by 星街すいせい on 2020/06/17 18:57]]></description>
+      <link>https://suisei-music.darknode.workers.dev/music/062cb4dc5aae30ab.m4a</link>
+      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/062cb4dc5aae30ab.m4a</guid>
+      <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
+      <pubDate>Wed, 17 Jun 2020 18:57:00 GMT</pubDate>
+      <enclosure url="https://suisei-music.darknode.workers.dev/music/062cb4dc5aae30ab.m4a" length="0" type="audio/mp4"/>
+      <content:encoded><![CDATA[
+    <p>Song name: 雨とカプチーノ</p>
+    <p>Originally by ヨルシカ</p>
+    <p>Performed at: 2020/06/17 18:57</p>
+    <br>
+    <p>
+    This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
+    If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
+    </p>
+    ]]></content:encoded>
+      <itunes:summary>雨とカプチーノ, originally by ヨルシカ, performed by 星街すいせい on 2020/06/17 18:57</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[夜に駆ける]]></title>
+      <description><![CDATA[夜に駆ける, originally by YOASOBI, performed by 星街すいせい on 2020/06/17 18:57]]></description>
+      <link>https://suisei-music.darknode.workers.dev/music/0226f5bb6b79e922.m4a</link>
+      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/0226f5bb6b79e922.m4a</guid>
+      <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
+      <pubDate>Wed, 17 Jun 2020 18:57:00 GMT</pubDate>
+      <enclosure url="https://suisei-music.darknode.workers.dev/music/0226f5bb6b79e922.m4a" length="0" type="audio/mp4"/>
+      <content:encoded><![CDATA[
+    <p>Song name: 夜に駆ける</p>
+    <p>Originally by YOASOBI</p>
+    <p>Performed at: 2020/06/17 18:57</p>
+    <br>
+    <p>
+    This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
+    If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
+    </p>
+    ]]></content:encoded>
+      <itunes:summary>夜に駆ける, originally by YOASOBI, performed by 星街すいせい on 2020/06/17 18:57</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[群青日和]]></title>
+      <description><![CDATA[群青日和, originally by 東京事変, performed by 星街すいせい on 2020/06/17 18:57]]></description>
+      <link>https://suisei-music.darknode.workers.dev/music/e5e17dbbbc392411.m4a</link>
+      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/e5e17dbbbc392411.m4a</guid>
+      <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
+      <pubDate>Wed, 17 Jun 2020 18:57:00 GMT</pubDate>
+      <enclosure url="https://suisei-music.darknode.workers.dev/music/e5e17dbbbc392411.m4a" length="0" type="audio/mp4"/>
+      <content:encoded><![CDATA[
+    <p>Song name: 群青日和</p>
+    <p>Originally by 東京事変</p>
+    <p>Performed at: 2020/06/17 18:57</p>
+    <br>
+    <p>
+    This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
+    If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
+    </p>
+    ]]></content:encoded>
+      <itunes:summary>群青日和, originally by 東京事変, performed by 星街すいせい on 2020/06/17 18:57</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[星街すいせいのMUSIC SPACEテーマソング]]></title>
+      <description><![CDATA[星街すいせいのMUSIC SPACEテーマソング, an original song by 星街すいせい performed on 2020/06/17 18:57.]]></description>
+      <link>https://suisei-music.darknode.workers.dev/music/da2803a0414a71c2.m4a</link>
+      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/da2803a0414a71c2.m4a</guid>
+      <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
+      <pubDate>Wed, 17 Jun 2020 18:57:00 GMT</pubDate>
+      <enclosure url="https://suisei-music.darknode.workers.dev/music/da2803a0414a71c2.m4a" length="0" type="audio/mp4"/>
+      <content:encoded><![CDATA[
+    <p>Song name: 星街すいせいのMUSIC SPACEテーマソング</p>
+    <p>Original song by 星街すいせい</p>
+    <p>Performed at: 2020/06/17 18:57</p>
+    <br>
+    <p>
+    This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
+    If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
+    </p>
+    ]]></content:encoded>
+      <itunes:summary>星街すいせいのMUSIC SPACEテーマソング, an original song by 星街すいせい performed on 2020/06/17 18:57.</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[NEXT COLOR PLANET]]></title>
+      <description><![CDATA[NEXT COLOR PLANET, an original song by 星街すいせい performed on 2020/06/17 18:57.]]></description>
+      <link>https://suisei-music.darknode.workers.dev/music/dadc155d4199b2ec.m4a</link>
+      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/dadc155d4199b2ec.m4a</guid>
+      <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
+      <pubDate>Wed, 17 Jun 2020 18:57:00 GMT</pubDate>
+      <enclosure url="https://suisei-music.darknode.workers.dev/music/dadc155d4199b2ec.m4a" length="0" type="audio/mp4"/>
+      <content:encoded><![CDATA[
+    <p>Song name: NEXT COLOR PLANET</p>
+    <p>Original song by 星街すいせい</p>
+    <p>Performed at: 2020/06/17 18:57</p>
+    <br>
+    <p>
+    This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
+    If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
+    </p>
+    ]]></content:encoded>
+      <itunes:summary>NEXT COLOR PLANET, an original song by 星街すいせい performed on 2020/06/17 18:57.</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[FuwaMoko→LIFE!]]></title>
+      <description><![CDATA[FuwaMoko→LIFE!, originally by もこ田めめめ, performed by 星街すいせい on 2020/06/17 18:57]]></description>
+      <link>https://suisei-music.darknode.workers.dev/music/77e442ef03c74e6d.m4a</link>
+      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/77e442ef03c74e6d.m4a</guid>
+      <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
+      <pubDate>Wed, 17 Jun 2020 18:57:00 GMT</pubDate>
+      <enclosure url="https://suisei-music.darknode.workers.dev/music/77e442ef03c74e6d.m4a" length="0" type="audio/mp4"/>
+      <content:encoded><![CDATA[
+    <p>Song name: FuwaMoko→LIFE!</p>
+    <p>Originally by もこ田めめめ</p>
+    <p>Performed at: 2020/06/17 18:57</p>
+    <br>
+    <p>
+    This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
+    If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
+    </p>
+    ]]></content:encoded>
+      <itunes:summary>FuwaMoko→LIFE!, originally by もこ田めめめ, performed by 星街すいせい on 2020/06/17 18:57</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[蒼に躊躇う]]></title>
+      <description><![CDATA[蒼に躊躇う, originally by 花鋏キョウ, performed by 星街すいせい on 2020/06/17 18:57]]></description>
+      <link>https://suisei-music.darknode.workers.dev/music/8504de2588c9192e.m4a</link>
+      <guid isPermaLink="true">https://suisei-music.darknode.workers.dev/music/8504de2588c9192e.m4a</guid>
+      <dc:creator><![CDATA[星街すいせい工房]]></dc:creator>
+      <pubDate>Wed, 17 Jun 2020 18:57:00 GMT</pubDate>
+      <enclosure url="https://suisei-music.darknode.workers.dev/music/8504de2588c9192e.m4a" length="0" type="audio/mp4"/>
+      <content:encoded><![CDATA[
+    <p>Song name: 蒼に躊躇う</p>
+    <p>Originally by 花鋏キョウ</p>
+    <p>Performed at: 2020/06/17 18:57</p>
+    <br>
+    <p>
+    This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
+    If things don't seem right, report it <a href="https://github.com/suisei-cn/suisei-podcast/issues">here</a>.
+    </p>
+    ]]></content:encoded>
+      <itunes:summary>蒼に躊躇う, originally by 花鋏キョウ, performed by 星街すいせい on 2020/06/17 18:57</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
     </item>
   </channel>
