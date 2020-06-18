@@ -8,7 +8,7 @@ function generateContent(item, original, time) {
     <p>Song name: ${item.title}</p>
     ${
       original
-        ? `<p>Original song by 星街すいせい</p>`
+        ? `<p>An original song by 星街すいせい</p>`
         : `<p>Originally by ${item.artist}</p>`
     }
     <p>Performed at: ${time}</p>
