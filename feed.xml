@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title><![CDATA[Suisei Music Podcast]]></title>
-    <description><![CDATA[Collection of music of suisei. Powered by suisei-cn.]]></description>
+    <description><![CDATA[Collection of music of suisei. Powered by suisei-cn. This is a temporary trial example. The production version might be released later at a different location.]]></description>
     <link>https://github.com/suisei-cn/suisei-podcast</link>
     <generator>podcast@npmjs</generator>
-    <lastBuildDate>Thu, 18 Jun 2020 16:03:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2020 17:22:47 GMT</lastBuildDate>
     <atom:link href="https://suisei-cn.github.io/suisei-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <author><![CDATA[星街すいせい工房]]></author>
-    <pubDate>Thu, 18 Jun 2020 16:03:50 GMT</pubDate>
+    <pubDate>Thu, 18 Jun 2020 17:22:47 GMT</pubDate>
     <category><![CDATA[music]]></category>
     <category><![CDATA[virtual youtuber]]></category>
     <itunes:author>星街すいせい工房</itunes:author>
-    <itunes:summary>Collection of music of suisei. Powered by suisei-cn.</itunes:summary>
+    <itunes:summary>Collection of music of suisei. Powered by suisei-cn. This is a temporary trial example. The production version might be released later at a different location.</itunes:summary>
     <itunes:owner>
       <itunes:name>星街すいせい工房</itunes:name>
       <itunes:email></itunes:email>
