@@ -31,7 +31,7 @@ function generateContent(item, original, time) {
     feedUrl: "https://suisei-cn.github.io/suisei-podcast/feed.xml",
     siteUrl: "https://github.com/suisei-cn/suisei-podcast",
     imageUrl:
-      "https://cdn.jsdelivr.net/gh/suisei-cn/suisei-podcast@1.0/smp-logo.png",
+      "https://cdn.jsdelivr.net/gh/suisei-cn/suisei-podcast@1.1/smp-logo.png",
     author: "星街すいせい工房",
     categories: ["music", "virtual youtuber"],
     itunesType: "episodic",
