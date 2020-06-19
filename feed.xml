@@ -9,19 +9,23 @@
       <link>https://github.com/suisei-cn/suisei-podcast</link>
     </image>
     <generator>podcast@npmjs</generator>
-    <lastBuildDate>Fri, 19 Jun 2020 08:04:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 12:05:10 GMT</lastBuildDate>
     <atom:link href="https://suisei-cn.github.io/suisei-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <author><![CDATA[星街すいせい工房]]></author>
-    <pubDate>Fri, 19 Jun 2020 08:04:29 GMT</pubDate>
+    <pubDate>Fri, 19 Jun 2020 12:05:10 GMT</pubDate>
     <category><![CDATA[music]]></category>
     <category><![CDATA[virtual youtuber]]></category>
     <itunes:author>星街すいせい工房</itunes:author>
     <itunes:summary>Collection of music of suisei. Powered by suisei-cn. This is a temporary trial example. The production version might be released later at a different location.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name>星街すいせい工房</itunes:name>
       <itunes:email></itunes:email>
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
+    <itunes:category text="Arts">
+      <itunes:category text="Performing Arts"/>
+    </itunes:category>
     <itunes:image href="https://cdn.jsdelivr.net/gh/suisei-cn/suisei-podcast@1.0/smp-logo.png"/>
     <item>
       <title><![CDATA[Starduster]]></title>
