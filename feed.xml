@@ -4,15 +4,15 @@
     <description><![CDATA[Collection of music of suisei. Powered by suisei-cn. This is a temporary trial example. The production version might be released later at a different location.]]></description>
     <link>https://github.com/suisei-cn/suisei-podcast</link>
     <image>
-      <url>https://cdn.jsdelivr.net/gh/suisei-cn/suisei-podcast@1.0/smp-logo.png</url>
+      <url>https://cdn.jsdelivr.net/gh/suisei-cn/suisei-podcast@1.1/smp-logo.png</url>
       <title>Suisei Music Podcast</title>
       <link>https://github.com/suisei-cn/suisei-podcast</link>
     </image>
     <generator>podcast@npmjs</generator>
-    <lastBuildDate>Fri, 19 Jun 2020 12:05:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 12:05:44 GMT</lastBuildDate>
     <atom:link href="https://suisei-cn.github.io/suisei-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <author><![CDATA[星街すいせい工房]]></author>
-    <pubDate>Fri, 19 Jun 2020 12:05:10 GMT</pubDate>
+    <pubDate>Fri, 19 Jun 2020 12:05:44 GMT</pubDate>
     <category><![CDATA[music]]></category>
     <category><![CDATA[virtual youtuber]]></category>
     <itunes:author>星街すいせい工房</itunes:author>
@@ -26,7 +26,7 @@
     <itunes:category text="Arts">
       <itunes:category text="Performing Arts"/>
     </itunes:category>
-    <itunes:image href="https://cdn.jsdelivr.net/gh/suisei-cn/suisei-podcast@1.0/smp-logo.png"/>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/suisei-cn/suisei-podcast@1.1/smp-logo.png"/>
     <item>
       <title><![CDATA[Starduster]]></title>
       <description><![CDATA[Starduster, originally by ジミーサムP, performed by 星街すいせい on 2018/03/27 00:00]]></description>
