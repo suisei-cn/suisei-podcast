@@ -1,7 +1,33 @@
-const podcast = require("podcast");
 const unirest = require("unirest");
 const Podcast = require("podcast");
 const dayjs = require("dayjs");
+
+function generateNotice(item) {
+  let ret = [];
+  const status = item.status || 0;
+  if (status & 1) {
+    ret.push("🎤 This clip is an acappella with no background music.");
+  }
+  if (status & 2) {
+    ret.push(
+      "😟 The source for this clip is corrupted due to various problems."
+    );
+  }
+  if (status & 4) {
+    ret.push(
+      "🔇 This clip is muted in the source due to concerns on copyright."
+    );
+  }
+  if (ret.length !== 0) {
+    return (
+      "<p>This episode has the following flags:\n<ul>" +
+      ret.map((x) => `<li>${x}</li>`).join("\n") +
+      "</ul>\n</p>"
+    );
+  } else {
+    return "";
+  }
+}
 
 function generateContent(item, original, time) {
   return `
@@ -11,7 +37,9 @@ function generateContent(item, original, time) {
         ? `<p>An original song by 星街すいせい</p>`
         : `<p>Originally by ${item.artist}</p>`
     }
-    <p>Performed at: ${time}</p>
+    <p>Performed by ${item.performer} at ${time}</p>
+    <p>Source: <a href="${item.source}">${item.source}</a></p>
+    ${generateNotice(item)}
     <br>
     <p>
     This podcast is powered by suisei-cn. See the music list <a href="https://github.com/suisei-cn/suisei-music/">here</a>. <br>
