@@ -24,32 +24,12 @@ This is a podcast-style list of [suisei-music](https://github.com/suisei-cn/suis
 
 ## Languages
 
-<table align=center>
-<thead>
-  <tr>
-    <th class="tg-0lax">Language</th>
-    <th class="tg-0lax">All Music</th>
-    <th class="tg-0lax">Acappella Only</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">简体中文<br></td>
-    <td class="tg-0lax"><a href="https://suisei.moe/podcast.xml?lang=zh-hans">订阅</a></td>
-    <td class="tg-0lax"><a href="https://suisei.moe/podcast.xml?lang=zh-hans&filter=1">订阅</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">日本語</td>
-    <td class="tg-0lax"><a href="https://suisei.moe/podcast.xml?lang=ja">登録</a></td>
-    <td class="tg-0lax"><a href="https://suisei.moe/podcast.xml?lang=ja&filter=1">登録</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">English</td>
-    <td class="tg-0lax"><a href="https://suisei.moe/podcast.xml?lang=en">Subscribe</a></td>
-    <td class="tg-0lax"><a href="https://suisei.moe/podcast.xml?lang=en&filter=1">Subscribe</a></td>
-  </tr>
-</tbody>
-</table>
+| Language |                      All Music                      |                        Acappella Only                        |
+| :------: | :-------------------------------------------------: | :----------------------------------------------------------: |
+| 简体中文 | [订阅](https://suisei.moe/podcast.xml?lang=zh-hans) | [订阅](https://suisei.moe/podcast.xml?lang=zh-hans&filter=1) |
+|  日本語  |   [登録](https://suisei.moe/podcast.xml?lang=ja)    |   [登録](https://suisei.moe/podcast.xml?lang=ja&filter=1)    |
+| English  | [Subscribe](https://suisei.moe/podcast.xml?lang=en) | [Subscribe](https://suisei.moe/podcast.xml?lang=en&filter=1) |
+|  (Auto)  |          <https://suisei.moe/podcast.xml>           |               <https://suisei.moe/podcast.xml>               |
 
 Don't have a podcast client? Try [AntennaPod](https://antennapod.org/).
 
