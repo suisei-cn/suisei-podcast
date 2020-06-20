@@ -29,7 +29,7 @@ This is a podcast-style list of [suisei-music](https://github.com/suisei-cn/suis
 | 简体中文 | [订阅](https://suisei.moe/podcast.xml?lang=zh-hans) | [订阅](https://suisei.moe/podcast.xml?lang=zh-hans&filter=1) |
 |  日本語  |   [登録](https://suisei.moe/podcast.xml?lang=ja)    |   [登録](https://suisei.moe/podcast.xml?lang=ja&filter=1)    |
 | English  | [Subscribe](https://suisei.moe/podcast.xml?lang=en) | [Subscribe](https://suisei.moe/podcast.xml?lang=en&filter=1) |
-|  (Auto)  |          <https://suisei.moe/podcast.xml>           |               <https://suisei.moe/podcast.xml>               |
+|  (Auto)  |          <https://suisei.moe/podcast.xml>           |           <https://suisei.moe/podcast.xml?filter=1>           |
 
 Don't have a podcast client? Try [AntennaPod](https://antennapod.org/).
 
