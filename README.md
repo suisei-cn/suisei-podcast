@@ -34,3 +34,7 @@ This is a podcast-style list of [suisei-music](https://github.com/suisei-cn/suis
 Don't have a podcast client? Try [AntennaPod](https://antennapod.org/).
 
 This podcast is powered by suisei-cn with [suisei-worker](https://github.com/suisei-cn/suisei-worker/).
+
+## Code
+
+The code had been moved to [suisei-cn/suisei-worker](https://github.com/suisei-cn/suisei-worker/blob/master/src/podcast.js).
