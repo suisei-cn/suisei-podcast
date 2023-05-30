@@ -9,7 +9,7 @@
 </p>
 
 <p align=center>
-    <a href="https://suisei.moe/podcast.xml"><img src="https://shields.io/badge/podcast-subscribe here-a5cdf1?logo=rss&style=for-the-badge"</img></a>
+    <a href="https://suisei.outv.im/podcast.xml"><img src="https://shields.io/badge/podcast-subscribe here-a5cdf1?logo=rss&style=for-the-badge"</img></a>
 </p>
 
 <hr>
@@ -24,10 +24,10 @@ This is a podcast-style list of [suisei-music](https://github.com/suisei-cn/suis
 
 | Language |                      All Music                      |                        Acappella Only                        |
 | :------: | :-------------------------------------------------: | :----------------------------------------------------------: |
-| 简体中文 | [订阅](https://suisei.moe/podcast.xml?lang=zh-hans) | [订阅人声专集](https://suisei.moe/podcast.xml?lang=zh-hans&filter=1) |
-| English  | [Subscribe](https://suisei.moe/podcast.xml?lang=en) | [Subscribe the acapella-only set](https://suisei.moe/podcast.xml?lang=en&filter=1) |
-|  日本語 (not available yet)  |   [登録](https://suisei.moe/podcast.xml?lang=ja)    |   [登録](https://suisei.moe/podcast.xml?lang=ja&filter=1)    |
-|  (Auto)  |          <https://suisei.moe/podcast.xml>           |           <https://suisei.moe/podcast.xml?filter=1>           |
+| 简体中文 | [订阅](https://suisei.outv.im/podcast.xml?lang=zh-hans) | [订阅人声专集](https://suisei.outv.im/podcast.xml?lang=zh-hans&filter=1) |
+| English  | [Subscribe](https://suisei.outv.im/podcast.xml?lang=en) | [Subscribe the acapella-only set](https://suisei.outv.im/podcast.xml?lang=en&filter=1) |
+|  日本語 (not available yet)  |   [登録](https://suisei.outv.im/podcast.xml?lang=ja)    |   [登録](https://suisei.outv.im/podcast.xml?lang=ja&filter=1)    |
+|  (Auto)  |          <https://suisei.outv.im/podcast.xml>           |           <https://suisei.outv.im/podcast.xml?filter=1>           |
 
 Don't have a podcast client? Try [AntennaPod](https://antennapod.org/).
 
